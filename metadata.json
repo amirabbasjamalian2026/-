@@ -1,0 +1,6 @@
+{
+  "name": "باشگاه من",
+  "description": "بازی دوبعدی کلیکر و ارتقای متوالی شخصیت ورزشی و باشگاه به زبان فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
